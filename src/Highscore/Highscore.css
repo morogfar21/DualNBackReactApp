@@ -1,0 +1,25 @@
+
+/* .table-header {
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.table-form{
+    border: 40px solid black;
+    border-collapse: collapse;
+    border-bottom: 40px solid black;
+    background-color: black !important;
+    box-shadow: blue;
+}
+
+.table-main{
+background-color: 5px solid black;
+border: 40px solid black;
+border-collapse: collapse;
+border-bottom: 40px solid black;
+} */
+
+.table-header th {
+   color: white !important
+}
+

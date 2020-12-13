@@ -1,0 +1,12 @@
+.login-container {
+    width: 50vh;
+    margin: auto;
+}
+
+.submit-button {
+    padding-top: 10;
+}
+
+form {
+    color: white;
+}

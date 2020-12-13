@@ -1,0 +1,59 @@
+.Dualnback {
+  text-align: center;
+}
+
+.Dualnback-logo {
+  -webkit-animation: App-logo-spin infinite 20s linear;
+          animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.Dualnback-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.Dualnback-title {
+  font-size: 1.5em;
+}
+
+.Dualnback-intro {
+  font-size: large;
+}
+
+@-webkit-keyframes App-logo-spin {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes App-logo-spin {
+  from {
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
+  }
+  to {
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+.button {
+  padding-right: 10rem;
+}
+
+#btn1 {
+  padding-right: 10px;
+}
+/*# sourceMappingURL=DualnBack.css.map */
